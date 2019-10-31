@@ -1,6 +1,8 @@
 import numpy as np
 import math
 
+
+
 """
  ==================================
  Problem 3: Neural Network Basics

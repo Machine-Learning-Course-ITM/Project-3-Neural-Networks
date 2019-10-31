@@ -4,6 +4,7 @@ import matplotlib.cm as cm
 import math
 
 
+
 def plot_images(X):
     if X.ndim == 1:
         X = np.array([X])

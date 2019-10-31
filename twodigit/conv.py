@@ -7,6 +7,7 @@ import utils_multiMNIST as U
 path_to_data_dir = '../Datasets/'
 use_mini_dataset = True
 
+
 batch_size = 32
 nb_classes = 10
 nb_epoch = 30
